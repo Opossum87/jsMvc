@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsMvc:war exploded">
+    <output-path>$PROJECT_DIR$/target/jsMvc</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsMvc" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:\Work\jsMvc\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="jsMvc/web/Web" />
+    </root>
+  </artifact>
+</component>
